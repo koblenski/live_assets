@@ -11,4 +11,4 @@
  *= require_self
  *= require_tree .
  */
-body { color: red; }
+body { color: blue; }
